@@ -1,0 +1,13 @@
+<resources>
+  <string name="app_name">Dribbbo</string>
+  <string name="home">Home</string>
+  <string name="likes">Likes</string>
+  <string name="buckets">Buckets</string>
+  <string name="open_drawer">Open drawer</string>
+  <string name="close_drawer">Close drawer</string>
+  <string name="shot_count">{0,choice,0#0 shot|1#1 shot|1&lt;{0} shots}</string>
+  <string name="title_home">Dribbbo</string>
+  <string name="title_likes">Likes</string>
+  <string name="title_buckets">Buckets</string>
+  <string name="logout">Logout</string>
+</resources>
