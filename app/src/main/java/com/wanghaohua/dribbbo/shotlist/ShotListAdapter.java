@@ -49,7 +49,6 @@ public class ShotListAdapter extends RecyclerView.Adapter {
   }
 
   public class ShotViewHolder extends RecyclerView.ViewHolder {
-    @BindView(R.id.shot_clickable_cover) public View cover;
     @BindView(R.id.tv_like_count) public TextView likeCount;
     @BindView(R.id.tv_bucket_count) public TextView bucketCount;
     @BindView(R.id.tv_view_count) public TextView viewCount;
